@@ -1,2 +1,2 @@
 # dotIma
-create a image consist of dot
+Create a image consist of dot.
